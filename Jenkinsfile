@@ -12,7 +12,7 @@ pipeline {
     }
     
     tools{
-        maven 'meet'
+        maven 'mvn'
     }
 
     stages {
